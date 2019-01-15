@@ -1,0 +1,18 @@
+{
+  "name": "mylife-home-core-plugins-vpanel-temperature",
+  "version": "0.0.1",
+  "description": "Mylife Home Core Plugin: VPanel Temperature",
+  "main": "index.js",
+  "repository": "https://github.com/mylife-home/mylife-home-core-plugins-vpanel-temperature",
+  "author": "Vincent Trumpff",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "*",
+    "jshint": "*",
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/*.js"
+  }
+}
